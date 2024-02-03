@@ -1,0 +1,202 @@
+2024-01-08 09:46:45.295303:Todo Created - reverse array
+2024-01-08 09:46:45.342132:Subject Added to Arrays reverse array
+2024-01-08 09:47:00.002639:Todo Created - kth smallest elem in array in o(n)
+2024-01-08 09:47:00.018262:Subject Added to Arrays kth smallest elem in array in o(n)
+2024-01-08 09:47:44.907978:Todo Created - find contiguous sub array which has largest sum
+2024-01-08 09:47:44.923604:Subject Added to Arrays find contiguous sub array which has largest sum
+2024-01-08 09:48:18.094478:Todo Created - maximise the profit by alternating purchase and sale
+2024-01-08 09:48:18.141371:Subject Added to Arrays maximise the profit by alternating purchase and sale
+2024-01-08 09:48:46.453373:Todo Created - sort in-place 0,1,2 array
+2024-01-08 09:48:46.468997:Subject Added to Arrays sort in-place 0,1,2 array
+2024-01-08 09:49:09.263175:Todo Created - find missing and duplicate numbers
+2024-01-08 09:49:09.278798:Subject Added to Arrays find missing and duplicate numbers
+2024-01-08 09:49:38.013927:Todo Created - add 2 nos from array to get target
+2024-01-08 09:49:38.045170:Subject Added to Arrays add 2 nos from array to get target
+2024-01-08 09:50:06.479802:Todo Created - maximum water in container
+2024-01-08 09:50:06.495459:Subject Added to Arrays maximum water in container
+2024-01-08 09:50:36.715842:Todo Created - reverse string in place
+2024-01-08 09:50:36.731436:Subject Added to Strings reverse string in place
+2024-01-08 09:52:47.146688:Todo Created - find no of pallindrome
+2024-01-08 09:52:47.178690:Subject Added to Strings find no of pallindrome
+2024-01-08 09:53:47.751437:Todo Created - find all anagrams
+2024-01-08 09:53:47.775436:Subject Added to Strings find all anagrams
+2024-01-08 09:54:07.906998:Todo Created - check if s2 is rotation of s1
+2024-01-08 09:54:07.955002:Subject Added to Strings check if s2 is rotation of s1
+2024-01-08 09:55:27.059425:Todo Created - 5
+2024-01-08 09:55:27.083449:Subject Added to Strings 5
+2024-01-08 09:55:27.771467:Todo Created - 6
+2024-01-08 09:55:27.787468:Subject Added to Strings 6
+2024-01-08 09:55:36.124767:Todo Created - 1
+2024-01-08 09:55:36.140738:Subject Added to Search_and_Sort 1
+2024-01-08 09:55:36.678953:Todo Created - 2
+2024-01-08 09:55:36.694953:Subject Added to Search_and_Sort 2
+2024-01-08 09:55:37.223019:Todo Created - 3
+2024-01-08 09:55:37.246992:Subject Added to Search_and_Sort 3
+2024-01-08 09:55:37.863076:Todo Created - 4
+2024-01-08 09:55:37.879036:Subject Added to Search_and_Sort 4
+2024-01-08 09:55:45.263749:Todo Created - 1
+2024-01-08 09:55:45.287753:Subject Added to Recursion 1
+2024-01-08 09:55:45.679778:Todo Created - 2
+2024-01-08 09:55:45.695752:Subject Added to Recursion 2
+2024-01-08 09:55:46.103783:Todo Created - 3
+2024-01-08 09:55:46.127779:Subject Added to Recursion 3
+2024-01-08 09:55:46.767824:Todo Created - 4
+2024-01-08 09:55:46.791855:Subject Added to Recursion 4
+2024-01-08 09:55:47.736051:Todo Created - 5
+2024-01-08 09:55:47.752051:Subject Added to Recursion 5
+2024-01-08 09:55:55.816872:Todo Created - 1
+2024-01-08 09:55:55.848874:Subject Added to Hashing 1
+2024-01-08 09:55:56.280904:Todo Created - 2
+2024-01-08 09:55:56.304906:Subject Added to Hashing 2
+2024-01-08 09:55:56.731085:Todo Created - 3
+2024-01-08 09:55:56.755114:Subject Added to Hashing 3
+2024-01-08 09:55:57.283124:Todo Created - 4
+2024-01-08 09:55:57.315125:Subject Added to Hashing 4
+2024-01-08 09:56:14.900986:Todo Created - 1
+2024-01-08 09:56:14.925007:Subject Added to Matrices 1
+2024-01-08 09:56:15.229005:Todo Created - 2
+2024-01-08 09:56:15.245027:Subject Added to Matrices 2
+2024-01-08 09:56:15.573022:Todo Created - 3
+2024-01-08 09:56:15.597053:Subject Added to Matrices 3
+2024-01-08 09:56:16.003828:Todo Created - 4
+2024-01-08 09:56:16.027853:Subject Added to Matrices 4
+2024-01-08 09:56:16.491856:Todo Created - 5
+2024-01-08 09:56:16.515865:Subject Added to Matrices 5
+2024-01-08 09:56:30.325940:Todo Created - 1
+2024-01-08 09:56:30.349939:Subject Added to Linked_list 1
+2024-01-08 09:56:30.677938:Todo Created - 2
+2024-01-08 09:56:30.693932:Subject Added to Linked_list 2
+2024-01-08 09:56:31.334046:Todo Created - 3
+2024-01-08 09:56:31.366053:Subject Added to Linked_list 3
+2024-01-08 09:56:31.670203:Todo Created - 4
+2024-01-08 09:56:31.686175:Subject Added to Linked_list 4
+2024-01-08 09:56:32.078210:Todo Created - 5
+2024-01-08 09:56:32.094233:Subject Added to Linked_list 5
+2024-01-08 09:56:32.726254:Todo Created - 6
+2024-01-08 09:56:32.750258:Subject Added to Linked_list 6
+2024-01-08 09:56:33.526302:Todo Created - 7
+2024-01-08 09:56:33.542333:Subject Added to Linked_list 7
+2024-01-08 09:56:33.974445:Todo Created - 8
+2024-01-08 09:56:33.998476:Subject Added to Linked_list 8
+2024-01-08 09:56:35.310835:Todo Created - 9
+2024-01-08 09:56:35.334837:Subject Added to Linked_list 9
+2024-01-08 09:56:36.222927:Todo Created - 10
+2024-01-08 09:56:36.246930:Subject Added to Linked_list 10
+2024-01-08 09:56:44.129328:Todo Created - 1
+2024-01-08 09:56:44.145329:Subject Added to Bit_manipulation 1
+2024-01-08 09:56:44.433380:Todo Created - 2
+2024-01-08 09:56:44.457352:Subject Added to Bit_manipulation 2
+2024-01-08 09:56:44.985388:Todo Created - 3
+2024-01-08 09:56:45.009418:Subject Added to Bit_manipulation 3
+2024-01-08 09:56:45.489607:Todo Created - 4
+2024-01-08 09:56:45.505616:Subject Added to Bit_manipulation 4
+2024-01-08 09:56:46.313693:Todo Created - 5
+2024-01-08 09:56:46.329673:Subject Added to Bit_manipulation 5
+2024-01-08 09:57:06.910285:Todo Created - 1
+2024-01-08 09:57:06.934286:Subject Added to Stacks_and_Queues 1
+2024-01-08 09:57:08.672800:Todo Created - 2
+2024-01-08 09:57:08.696794:Subject Added to Stacks_and_Queues 2
+2024-01-08 09:57:09.120823:Todo Created - 3
+2024-01-08 09:57:09.152831:Subject Added to Stacks_and_Queues 3
+2024-01-08 09:57:09.512880:Todo Created - 4
+2024-01-08 09:57:09.536882:Subject Added to Stacks_and_Queues 4
+2024-01-08 09:57:09.888905:Todo Created - 5
+2024-01-08 09:57:09.912912:Subject Added to Stacks_and_Queues 5
+2024-01-08 09:57:10.376938:Todo Created - 6
+2024-01-08 09:57:10.392968:Subject Added to Stacks_and_Queues 6
+2024-01-08 09:57:26.981987:Todo Created - 7
+2024-01-08 09:57:27.006012:Subject Added to Stacks_and_Queues 7
+2024-01-08 09:57:27.646059:Todo Created - 8
+2024-01-08 09:57:27.670060:Subject Added to Stacks_and_Queues 8
+2024-01-08 09:57:44.202698:Todo Created - 1
+2024-01-08 09:57:44.226701:Subject Added to Trees 1
+2024-01-08 09:57:44.578827:Todo Created - 2
+2024-01-08 09:57:44.602828:Subject Added to Trees 2
+2024-01-08 09:57:44.986866:Todo Created - 3
+2024-01-08 09:57:45.010888:Subject Added to Trees 3
+2024-01-08 09:57:45.378887:Todo Created - 4
+2024-01-08 09:57:45.402887:Subject Added to Trees 4
+2024-01-08 09:57:45.914949:Todo Created - 5
+2024-01-08 09:57:45.930951:Subject Added to Trees 5
+2024-01-08 09:57:46.410985:Todo Created - 6
+2024-01-08 09:57:46.426967:Subject Added to Trees 6
+2024-01-08 09:57:46.947122:Todo Created - 7
+2024-01-08 09:57:46.971095:Subject Added to Trees 7
+2024-01-08 09:57:47.459129:Todo Created - 8
+2024-01-08 09:57:47.483130:Subject Added to Trees 8
+2024-01-08 09:57:47.915373:Todo Created - 9
+2024-01-08 09:57:47.931405:Subject Added to Trees 9
+2024-01-08 09:57:48.963551:Todo Created - 10
+2024-01-08 09:57:48.987582:Subject Added to Trees 10
+2024-01-08 09:57:49.715709:Todo Created - 11
+2024-01-08 09:57:49.739712:Subject Added to Trees 11
+2024-01-08 09:57:50.844121:Todo Created - 12
+2024-01-08 09:57:50.868092:Subject Added to Trees 12
+2024-01-08 09:58:00.231657:Todo Created - 1
+2024-01-08 09:58:00.255665:Subject Added to Tries 1
+2024-01-08 09:58:02.287929:Todo Created - 2
+2024-01-08 09:58:02.311901:Subject Added to Tries 2
+2024-01-08 09:58:02.655955:Todo Created - 3
+2024-01-08 09:58:02.679936:Subject Added to Tries 3
+2024-01-08 09:58:02.991950:Todo Created - 4
+2024-01-08 09:58:03.015980:Subject Added to Tries 4
+2024-01-08 09:58:04.000126:Todo Created - 5
+2024-01-08 09:58:04.024128:Subject Added to Tries 5
+2024-01-08 09:58:11.240683:Todo Created - 1
+2024-01-08 09:58:11.264685:Subject Added to Heapst 1
+2024-01-08 09:58:11.560707:Todo Created - 2
+2024-01-08 09:58:11.608701:Subject Added to Heapst 2
+2024-01-08 09:58:11.848850:Todo Created - 3
+2024-01-08 09:58:11.864851:Subject Added to Heapst 3
+2024-01-08 09:58:12.352886:Todo Created - 4
+2024-01-08 09:58:12.376857:Subject Added to Heapst 4
+2024-01-08 09:58:32.758473:Todo Created - 1
+2024-01-08 09:58:32.782445:Subject Added to Graphs 1
+2024-01-08 09:58:33.078496:Todo Created - 2
+2024-01-08 09:58:33.102469:Subject Added to Graphs 2
+2024-01-08 09:58:33.438623:Todo Created - 3
+2024-01-08 09:58:33.462595:Subject Added to Graphs 3
+2024-01-08 09:58:34.894725:Todo Created - 4
+2024-01-08 09:58:34.918697:Subject Added to Graphs 4
+2024-01-08 09:58:35.342731:Todo Created - 5
+2024-01-08 09:58:35.366733:Subject Added to Graphs 5
+2024-01-08 09:58:35.766756:Todo Created - 6
+2024-01-08 09:58:35.790768:Subject Added to Graphs 6
+2024-01-08 09:58:36.656413:Todo Created - 7
+2024-01-08 09:58:36.680444:Subject Added to Graphs 7
+2024-01-08 09:58:37.224452:Todo Created - 8
+2024-01-08 09:58:37.248474:Subject Added to Graphs 8
+2024-01-08 09:58:37.752519:Todo Created - 9
+2024-01-08 09:58:37.776519:Subject Added to Graphs 9
+2024-01-08 09:58:38.720789:Todo Created - 10
+2024-01-08 09:58:38.736766:Subject Added to Graphs 10
+2024-01-08 09:58:50.498211:Todo Created - 1
+2024-01-08 09:58:50.522221:Subject Added to Dynamic_prog 1
+2024-01-08 09:58:50.866241:Todo Created - 2
+2024-01-08 09:58:50.882265:Subject Added to Dynamic_prog 2
+2024-01-08 09:58:51.202268:Todo Created - 3
+2024-01-08 09:58:51.226289:Subject Added to Dynamic_prog 3
+2024-01-08 09:58:51.586286:Todo Created - 4
+2024-01-08 09:58:51.602316:Subject Added to Dynamic_prog 4
+2024-01-08 09:58:51.946396:Todo Created - 5
+2024-01-08 09:58:51.970377:Subject Added to Dynamic_prog 5
+2024-01-08 09:58:52.290622:Todo Created - 6
+2024-01-08 09:58:52.314598:Subject Added to Dynamic_prog 6
+2024-01-08 09:58:52.666617:Todo Created - 7
+2024-01-08 09:58:52.682648:Subject Added to Dynamic_prog 7
+2024-01-08 09:58:53.074645:Todo Created - 8
+2024-01-08 09:58:53.098654:Subject Added to Dynamic_prog 8
+2024-01-08 09:58:54.466856:Todo Created - 9
+2024-01-08 09:58:54.506828:Subject Added to Dynamic_prog 9
+2024-01-08 09:58:55.586934:Todo Created - 10
+2024-01-08 09:58:55.610905:Subject Added to Dynamic_prog 10
+2024-01-09 22:42:23.516369:Arrays-reverse array marked as Completed
+2024-01-09 22:42:23.547642:Current Target Set to Arrays-kth smallest elem in array in o(n)
+2024-01-09 22:42:31.836924:Arrays-kth smallest elem in array in o(n) marked as Completed
+2024-01-09 22:42:31.868205:Current Target Set to Arrays-find contiguous sub array which has largest sum
+2024-01-09 22:51:58.367400:Arrays-find contiguous sub array which has largest sum marked as Completed
+2024-01-09 22:51:58.398596:Current Target Set to Arrays-maximise the profit by alternating purchase and sale
+2024-01-10 11:27:44.811359:Arrays-maximise the profit by alternating purchase and sale marked as Completed
+2024-01-10 11:27:44.827007:Current Target Set to Arrays-sort in-place 0,1,2 array
+2024-01-12 06:52:21.501880:Strings-reverse string in place marked as Completed
+2024-01-12 06:52:21.548732:Current Target Set to Strings-find no of pallindrome
