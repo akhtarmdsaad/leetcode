@@ -11,28 +11,28 @@ def solve(mat):
     while True:
         elem = mat[i][j]
         print(elem,end=" ")
-        if state == "right":
+        if state == "down":
             if i >= m-1:
                 i = m-1
-                state = "down"
-                continue
-            i+=1
-        elif state == "down":
-            if j >= n-1:
-                j = n-1 
                 state = "left"
                 continue
+            i+=1
+        elif state == "right":
+            if j >= n-1:
+                j = n-1 
+                state = "down"
+                continue
             j += 1
-        elif state == "left":
+        elif state == "up":
             if i <= 0:
                 i = 0
-                state = "up"
+                state = "right"
                 continue
             i -= 1
-        elif state == "up":
+        elif state == "left":
             if j <= 0:
                 j = 0
-                state = "right"
+                state = "up"
                 continue 
             j -= 1
         input(state)
